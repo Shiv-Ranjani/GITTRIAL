@@ -1,0 +1,38 @@
+Apr 22, 2022 1:43:56,584 PM/configSubmit by admin from 115.97.62.43
+Apr 22, 2022 1:44:21,659 PMjob/MyNew1/ #3 Started by user Shiv, Parameters:[]
+Apr 22, 2022 1:44:21,700 PMMyNew1 #3 Started by user Shiv, Parameters:[] on node Jenkins started at 2022-04-22T13:44:21Z completed in 25ms completed: SUCCESS
+Apr 22, 2022 1:44:26,689 PMjob/MyNew1/ #4 Started by user Shiv, Parameters:[]
+Apr 22, 2022 1:44:26,715 PMMyNew1 #4 Started by user Shiv, Parameters:[] on node Jenkins started at 2022-04-22T13:44:26Z completed in 19ms completed: SUCCESS
+Apr 22, 2022 1:45:30,760 PM/view/all/createItem (job2) by admin from 115.97.62.43
+Apr 22, 2022 2:01:46,733 PM/view/all/createItem (jobs1) by admin from 115.97.62.43
+Apr 22, 2022 2:08:33,498 PM/job/jobs1/configSubmit by admin from 115.97.62.43
+Apr 22, 2022 2:09:06,770 PM/job/job2/configSubmit by admin from 115.97.62.43
+Apr 22, 2022 2:09:14,351 PM/job/job2/configSubmit by admin from 115.97.62.43
+Apr 22, 2022 2:09:20,140 PM/job/job2/configSubmit by admin from 115.97.62.43
+Apr 22, 2022 2:09:29,670 PM/job/job2/configSubmit by admin from 115.97.62.43
+Apr 22, 2022 2:10:49,523 PM/job/job2/configSubmit by NA from 115.97.62.43
+Apr 22, 2022 2:10:53,998 PM/job/job2/configSubmit by admin from 115.97.62.43
+Apr 22, 2022 2:11:19,718 PM/view/all/createItem (job3) by admin from 115.97.62.43
+Apr 22, 2022 2:11:34,618 PM/job/job3/configSubmit by admin from 115.97.62.43
+Apr 22, 2022 2:11:39,077 PMjob/job3/ #1 Started by user Shiv, Parameters:[]
+Apr 22, 2022 2:11:39,642 PMjob3 #1 Started by user Shiv, Parameters:[] on node Jenkins started at 2022-04-22T14:11:39Z completed in 539ms completed: FAILURE
+Apr 22, 2022 2:11:41,330 PMjob/job3/ #2 Started by user Shiv, Parameters:[]
+Apr 22, 2022 2:11:41,790 PM/static/f3dd7f7b/images/svgs/stop.svg by admin from 115.97.62.43
+Apr 22, 2022 2:11:41,852 PMjob3 #2 Started by user Shiv, Parameters:[] on node Jenkins started at 2022-04-22T14:11:41Z completed in 503ms completed: FAILURE
+Apr 22, 2022 2:13:24,500 PM/job/job3/configSubmit by admin from 115.97.62.43
+Apr 22, 2022 2:13:27,634 PMjob/job3/ #3 Started by user Shiv, Parameters:[]
+Apr 22, 2022 2:13:28,432 PMjob3 #3 Started by user Shiv, Parameters:[] on node Jenkins started at 2022-04-22T14:13:27Z completed in 788ms completed: FAILURE
+Apr 22, 2022 2:14:18,022 PMjob/job3/ #4 Started by user Shiv, Parameters:[]
+Apr 22, 2022 2:14:18,514 PMjob3 #4 Started by user Shiv, Parameters:[] on node Jenkins started at 2022-04-22T14:14:18Z completed in 478ms completed: FAILURE
+Apr 22, 2022 2:15:54,109 PMjob/job3/ #5 Started by user Shiv, Parameters:[]
+Apr 22, 2022 2:15:54,606 PMjob3 #5 Started by user Shiv, Parameters:[] on node Jenkins started at 2022-04-22T14:15:54Z completed in 482ms completed: FAILURE
+Apr 22, 2022 2:18:07,446 PM/view/all/createItem (edureka) by admin from 115.97.62.43
+Apr 22, 2022 2:18:19,833 PM/job/edureka/configSubmit by admin from 115.97.62.43
+Apr 22, 2022 2:18:22,759 PMjob/edureka/ #1 Started by user Shiv, Parameters:[]
+Apr 22, 2022 2:18:27,057 PMedureka #1 Started by user Shiv, Parameters:[] on node Jenkins started at 2022-04-22T14:18:22Z completed in 4268ms completed: SUCCESS
+Apr 22, 2022 2:24:14,171 PM/view/all/createItem (Maven) by admin from 115.97.62.43
+Apr 22, 2022 2:25:01,489 PM/job/Maven/configSubmit by admin from 115.97.62.43
+Apr 22, 2022 2:25:03,796 PMjob/Maven/ #1 Started by user Shiv, Parameters:[]
+Apr 22, 2022 2:25:31,554 PMMaven #1 Started by user Shiv, Parameters:[] on node Jenkins started at 2022-04-22T14:25:03Z completed in 27743ms completed: FAILURE
+Apr 22, 2022 2:28:42,492 PMjob/Maven/ #2 Started by user Shiv, Parameters:[]
+Apr 22, 2022 2:29:01,371 PMMaven #2 Started by user Shiv, Parameters:[] on node Jenkins started at 2022-04-22T14:28:42Z completed in 18869ms completed: FAILURE
